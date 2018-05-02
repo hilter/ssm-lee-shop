@@ -8,6 +8,7 @@
 	<modules>
 		<module>lee-common</module>
 		<module>lee-manager</module>
+		<module>lee-manager-web</module>
 	</modules>
 	<!-- 集中定义依赖版本号 -->
 	<properties>

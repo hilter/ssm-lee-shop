@@ -22,7 +22,6 @@
 		<module>lee-manager-dao</module>
 		<module>lee-manager-interface</module>
 		<module>lee-manager-service</module>
-		<module>lee-manager-web</module>
 	</modules>
 	<!-- 配置tomcat插件 -->
 	<build>

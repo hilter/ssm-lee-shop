@@ -8,7 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/lee-manager/lee-manager-interface/lee-manager-interface.iml" filepath="$PROJECT_DIR$/lee-manager/lee-manager-interface/lee-manager-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/lee-manager/lee-manager-pojo/lee-manager-pojo.iml" filepath="$PROJECT_DIR$/lee-manager/lee-manager-pojo/lee-manager-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lee-manager/lee-manager-service/lee-manager-service.iml" filepath="$PROJECT_DIR$/lee-manager/lee-manager-service/lee-manager-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lee-manager/lee-manager-web/lee-manager-web.iml" filepath="$PROJECT_DIR$/lee-manager/lee-manager-web/lee-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lee-manager-web/lee-manager-web.iml" filepath="$PROJECT_DIR$/lee-manager-web/lee-manager-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/lee-parent.iml" filepath="$PROJECT_DIR$/lee-parent.iml" />
     </modules>
   </component>
